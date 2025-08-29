@@ -1,0 +1,24 @@
+cookies: 
+      it is use to store the inforamtion of the user for the request and response from the client and server
+      Server give the unique code to the client where the server use the code to login the server again and again
+
+When we send the data to the server for the input like email name it gr to the user in the format Blob
+which cnvert the plain text into unreadable fromat 
+
+
+Intialize the project 
+----------------------------------------------
+Introduction to the topics 
+  Dynamic Routing : 
+       how to get the data coming from thr Backend
+
+settting up the parser
+use of the parser
+EJS uses 
+
+
+EJS : 
+
+  install ejs 
+  set up ejs as a view  enginee
+  
